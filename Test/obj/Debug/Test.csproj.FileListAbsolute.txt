@@ -1,0 +1,5 @@
+c:\users\tanvir\documents\visual studio 2015\Projects\GitHubProject\Test\bin\Debug\Test.dll
+c:\users\tanvir\documents\visual studio 2015\Projects\GitHubProject\Test\bin\Debug\Test.pdb
+c:\users\tanvir\documents\visual studio 2015\Projects\GitHubProject\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\tanvir\documents\visual studio 2015\Projects\GitHubProject\Test\obj\Debug\Test.dll
+c:\users\tanvir\documents\visual studio 2015\Projects\GitHubProject\Test\obj\Debug\Test.pdb
